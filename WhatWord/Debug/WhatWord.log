@@ -1,0 +1,16 @@
+﻿  prog5mbochn2.cpp
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(181): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(179): warning C4101: 'guessedWords': unreferenced local variable
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(301): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(412): warning C4305: 'initializing': truncation from 'int' to 'bool'
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(414): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(427): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(496): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(574): note: see declaration of 'strlwr'
+c:\users\michal\documents\visual studio 2015\projects\whatword\whatword\prog5mbochn2.cpp(562): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  WhatWord.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\WhatWord\Debug\WhatWord.exe
+  WhatWord.vcxproj -> C:\Users\Michal\Documents\Visual Studio 2015\Projects\WhatWord\Debug\WhatWord.pdb (Full PDB)
